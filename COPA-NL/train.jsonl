@@ -1,0 +1,400 @@
+{"id": 1, "question": "cause", "premise": "Mijn lichaam wierp een schaduw over het gras.", "choice1": "De zon kwam op.", "choice2": "Het gras was gemaaid.", "label": 0}
+{"id": 2, "question": "cause", "premise": "De vrouw tolereerde het lastige gedrag van haar vriendin.", "choice1": "De vrouw wist dat haar vriendin het moeilijk had.", "choice2": "De vrouw had het gevoel dat haar vriendin misbruik maakte van haar vriendelijkheid.", "label": 0}
+{"id": 3, "question": "cause", "premise": "De vrouwen spraken met elkaar af voor koffie.", "choice1": "Het caf\u00e9 was heropend op een nieuwe locatie.", "choice2": "Ze wilden bijpraten.", "label": 1}
+{"id": 4, "question": "cause", "premise": "De hardloper droeg een korte broek.", "choice1": "De voorspelling voorspelde hoge temperaturen.", "choice2": "Ze was van plan langs het strand te rennen.", "label": 0}
+{"id": 5, "question": "cause", "premise": "De gasten van het feest verstopten zich achter de bank.", "choice1": "Het was een surpriseparty.", "choice2": "Het was een verjaardagsfeestje.", "label": 0}
+{"id": 6, "question": "cause", "premise": "De politicus verloor de verkiezingen.", "choice1": "Hij plaatste negatieve campagneadvertenties.", "choice2": "Niemand heeft op hem gestemd.", "label": 1}
+{"id": 7, "question": "cause", "premise": "De vlek kwam uit het shirt.", "choice1": "Ik heb het shirt opgelapt.", "choice2": "Ik heb het shirt schoongepoetst.", "label": 1}
+{"id": 8, "question": "cause", "premise": "De man kreeg korting op zijn boodschappen.", "choice1": "Hij begroette de caissi\u00e8re.", "choice2": "Hij gebruikte een coupon.", "label": 1}
+{"id": 9, "question": "effect", "premise": "De arts gaf de pati\u00ebnt een verkeerde diagnose.", "choice1": "De pati\u00ebnt heeft een klacht ingediend tegen de arts.", "choice2": "De pati\u00ebnt verstrekte vertrouwelijke informatie aan de arts.", "label": 0}
+{"id": 10, "question": "cause", "premise": "De klant diende een klacht in bij de winkelmanager.", "choice1": "De verkoopmedewerker heeft de klant te weinig in rekening gebracht.", "choice2": "De verkoopster deed onbeschoft tegen de klant.", "label": 1}
+{"id": 11, "question": "cause", "premise": "De vrouw repareerde haar kraan.", "choice1": "De kraan was lek.", "choice2": "De kraan stond dicht.", "label": 0}
+{"id": 12, "question": "effect", "premise": "De bejaarde vrouw kreeg een beroerte.", "choice1": "De dochter van de vrouw kwam langs om haar huis schoon te maken.", "choice2": "De dochter van de vrouw trok bij haar in om voor haar te zorgen.", "label": 1}
+{"id": 13, "question": "effect", "premise": "De vijver was 's winters bevroren.", "choice1": "Mensen schaatsten op de vijver.", "choice2": "Mensen brachten boten naar de vijver.", "label": 0}
+{"id": 14, "question": "effect", "premise": "De dader heeft een overtreding begaan in zijn proefverlof.", "choice1": "Ze werd teruggestuurd naar de gevangenis.", "choice2": "Ze stal geld van een kerk.", "label": 0}
+{"id": 15, "question": "effect", "premise": "Ik goot water over mijn slapende vriend.", "choice1": "Mijn vriend werd wakker.", "choice2": "Mijn vriend snurkte.", "label": 0}
+{"id": 16, "question": "cause", "premise": "Het meisje hapte naar adem.", "choice1": "Haar vriendin deed een ijsblokje op haar rug.", "choice2": "Haar vriend gaf haar een schouderklopje.", "label": 0}
+{"id": 17, "question": "cause", "premise": "Het overhemd is gekrompen.", "choice1": "Ik heb er bleekmiddel op gegoten.", "choice2": "Ik stop het in de droger.", "label": 1}
+{"id": 18, "question": "effect", "premise": "Het werd donker buiten.", "choice1": "Sneeuwvlokken begonnen uit de lucht te vallen.", "choice2": "De maan werd zichtbaar aan de hemel.", "label": 1}
+{"id": 19, "question": "cause", "premise": "Ik hing op.", "choice1": "De beller nam afscheid van me.", "choice2": "De beller heeft zich aan mij voorgesteld.", "label": 0}
+{"id": 20, "question": "effect", "premise": "De ring van de vrouw gleed af in de douche.", "choice1": "De vrouw poetste de ring.", "choice2": "De ring ging door de afvoer.", "label": 1}
+{"id": 21, "question": "cause", "premise": "Het meisje kreeg een trofee.", "choice1": "Ze won een spellingswedstrijd.", "choice2": "Ze heeft een nieuwe vriend gemaakt.", "label": 0}
+{"id": 22, "question": "effect", "premise": "De date van de vrouw wilde eruit zien als een heer.", "choice1": "Hij opende de deur voor haar.", "choice2": "Hij vroeg haar of ze van sushi hield.", "label": 0}
+{"id": 23, "question": "effect", "premise": "De landbouwgrond had irrigatie nodig.", "choice1": "Er werd een kanaal aangelegd.", "choice2": "Er was een overstroming.", "label": 0}
+{"id": 24, "question": "cause", "premise": "De gastvrouw annuleerde het feest.", "choice1": "Ze wist zeker dat ze griep had.", "choice2": "Ze was bang dat ze griep zou krijgen.", "label": 0}
+{"id": 25, "question": "cause", "premise": "De vrouw gaf de man haar telefoonnummer.", "choice1": "Ze voelde zich tot hem aangetrokken.", "choice2": "Ze vond hem verschrikkelijk.", "label": 0}
+{"id": 26, "question": "cause", "premise": "De skydiver sweef veilig naar de grond.", "choice1": "Ze opende haar parachute.", "choice2": "Ze sprong uit het vliegtuig.", "label": 0}
+{"id": 27, "question": "effect", "premise": "De peuter werd chagrijnig.", "choice1": "Haar moeder legde haar neer voor een dutje.", "choice2": "Haar moeder maakte haar haar in staartjes.", "label": 0}
+{"id": 28, "question": "cause", "premise": "Het kind werd immuun voor de ziekte.", "choice1": "Hij vermeed blootstelling aan de ziekte.", "choice2": "Hij kreeg het vaccin voor de ziekte.", "label": 1}
+{"id": 29, "question": "effect", "premise": "De druivensap gistte.", "choice1": "Het sap veranderde in wijn.", "choice2": "Het sap verdampte.", "label": 0}
+{"id": 30, "question": "cause", "premise": "De discussie duurde eindeloos.", "choice1": "De vrienden waren het met elkaar eens.", "choice2": "De vrienden waren aan het muggenziften.", "label": 1}
+{"id": 31, "question": "cause", "premise": "De vrouw neuriede in zichzelf.", "choice1": "Ze was zenuwachtig.", "choice2": "Ze was in een goed humeur.", "label": 1}
+{"id": 32, "question": "effect", "premise": "De man haatte zijn nieuwe kapsel.", "choice1": "Hij droeg een hoed.", "choice2": "Hij liet een baard groeien.", "label": 0}
+{"id": 33, "question": "effect", "premise": "De politie richtte hun wapens op de voortvluchtige.", "choice1": "De voortvluchtige viel op de grond.", "choice2": "De voortvluchtige liet zijn pistool vallen.", "label": 1}
+{"id": 34, "question": "effect", "premise": "De pati\u00ebnt was uitgedroogd.", "choice1": "De verpleegster testte zijn reflexen.", "choice2": "De verpleegster gaf hem een infuus.", "label": 1}
+{"id": 35, "question": "effect", "premise": "Het meisje vond het ontbrekende puzzelstukje.", "choice1": "Ze maakte de puzzel af.", "choice2": "Ze haalde de puzzel uit elkaar.", "label": 0}
+{"id": 36, "question": "cause", "premise": "De man sprong snel uit bed.", "choice1": "Hij wilde de wekker uitzetten.", "choice2": "Hij wilde zijn broek strijken voor het werk.", "label": 0}
+{"id": 37, "question": "effect", "premise": "De documenten waren ongeorganiseerd.", "choice1": "Ik heb er fotokopie\u00ebn van gemaakt.", "choice2": "Ik heb ze op alfabetische volgorde gezet.", "label": 1}
+{"id": 38, "question": "effect", "premise": "De vrouw heeft de loterij gewonnen.", "choice1": "Ze kocht een jacht.", "choice2": "Ze sloot zich aan bij een kerk.", "label": 0}
+{"id": 39, "question": "effect", "premise": "De naaister duwde de naald in de stof.", "choice1": "De draad wikkelde rond de naald.", "choice2": "De draad ging door de stof.", "label": 1}
+{"id": 40, "question": "cause", "premise": "De vrouw schakelde een advocaat in.", "choice1": "Ze besloot haar werkgever aan te klagen.", "choice2": "Ze besloot zich kandidaat te stellen.", "label": 0}
+{"id": 41, "question": "effect", "premise": "De bewoner was de sleutels van zijn appartement kwijt.", "choice1": "Zijn huisbaas deed de deur open.", "choice2": "Zijn huisbaas repareerde de deur.", "label": 0}
+{"id": 42, "question": "effect", "premise": "Mijn favoriete liedje kwam op de radio.", "choice1": "Ik bedekte mijn oren.", "choice2": "Ik zong ermee mee.", "label": 1}
+{"id": 43, "question": "cause", "premise": "De directie besloot de sollicitant niet aan te nemen.", "choice1": "De aanvrager is niet geslaagd voor een achtergrondcontrole.", "choice2": "De sollicitant had ervaring voor de functie.", "label": 0}
+{"id": 44, "question": "effect", "premise": "Het oog van de man raakte ge\u00efnfecteerd.", "choice1": "Hij werd blind.", "choice2": "Hij zette een bril op.", "label": 0}
+{"id": 45, "question": "cause", "premise": "De vogel kon niet vliegen.", "choice1": "Het migreerde voor de winter.", "choice2": "Het verwondde zijn vleugel.", "label": 1}
+{"id": 46, "question": "cause", "premise": "Het meisje deed een wens.", "choice1": "Ze zag een zwarte kat.", "choice2": "Ze zag een vallende ster.", "label": 1}
+{"id": 47, "question": "effect", "premise": "De vrouw rilde toen ze uit het zwembad stapte.", "choice1": "Ze wikkelde zich in een handdoek.", "choice2": "Ze schonk zichzelf wat limonade in.", "label": 0}
+{"id": 48, "question": "effect", "premise": "De verpleegster maakte de naald klaar voor de injectie van de pati\u00ebnt.", "choice1": "De pati\u00ebnt bloedde.", "choice2": "De pati\u00ebnt verstijfde.", "label": 1}
+{"id": 49, "question": "cause", "premise": "De man gooide het brood weg.", "choice1": "Het was vers.", "choice2": "Het was muf.", "label": 1}
+{"id": 50, "question": "cause", "premise": "De kinderen hebben een lamp omgegooid.", "choice1": "Ze hadden een kussengevecht.", "choice2": "Ze sprongen op het bed.", "label": 0}
+{"id": 51, "question": "cause", "premise": "Ik dronk uit de waterfontein.", "choice1": "Ik had dorst.", "choice2": "Ik voelde me misselijk.", "label": 0}
+{"id": 52, "question": "effect", "premise": "De huiseigenaren hadden een hekel aan hun nieuwsgierige buren.", "choice1": "Ze hebben een hek om hun terrein gebouwd.", "choice2": "Ze organiseerden een barbecue in hun achtertuin.", "label": 0}
+{"id": 53, "question": "effect", "premise": "De bodybuilder hief gewichten op.", "choice1": "De sportschool is gesloten.", "choice2": "Haar spieren raakten vermoeid.", "label": 1}
+{"id": 54, "question": "effect", "premise": "De kok roerde de ingredi\u00ebnten in de kom.", "choice1": "De ingredi\u00ebnten smolten.", "choice2": "De ingredi\u00ebnten vermengden zich met elkaar.", "label": 1}
+{"id": 55, "question": "effect", "premise": "De man heeft het document ondertekend.", "choice1": "De transactie is ongeldig verklaard.", "choice2": "De transactie werd officieel.", "label": 1}
+{"id": 56, "question": "effect", "premise": "De politieagent liet het wapen vallen.", "choice1": "Het geweer deinsde terug.", "choice2": "Het pistool ging af.", "label": 1}
+{"id": 57, "question": "effect", "premise": "De vrouw voelde zich genoodzaakt iemand in nood te helpen.", "choice1": "Ze heeft bloed gedoneerd.", "choice2": "Ze schreef een gedicht.", "label": 0}
+{"id": 58, "question": "effect", "premise": "De vrouw voelde zich eenzaam.", "choice1": "Ze renoveerde haar keuken.", "choice2": "Ze adopteerde een kat.", "label": 1}
+{"id": 59, "question": "effect", "premise": "Ik wreef schuurpapier over het hout.", "choice1": "Het hout werd glad.", "choice2": "Het hout werd plakkerig.", "label": 0}
+{"id": 60, "question": "effect", "premise": "Het publiek gaf de band een staande ovatie.", "choice1": "De band heeft handtekeningen uitgedeeld.", "choice2": "De band verscheen weer op het podium.", "label": 1}
+{"id": 61, "question": "effect", "premise": "De man gooide zijn lege blik op straat.", "choice1": "Hij werd van achteren besprongen.", "choice2": "Hij kreeg een boete voor zwerfafval.", "label": 1}
+{"id": 62, "question": "cause", "premise": "Mijn maag knorde.", "choice1": "Ik vergat te ontbijten.", "choice2": "Ik was vol van het ontbijt.", "label": 0}
+{"id": 63, "question": "effect", "premise": "De schippers staken een vuurpijl af.", "choice1": "Hun boot dreef naar de kust.", "choice2": "Hun boot werd gered.", "label": 1}
+{"id": 64, "question": "cause", "premise": "De man trok zijn jas uit.", "choice1": "Hij ging het huis binnen.", "choice2": "Hij maakte zijn stropdas los.", "label": 0}
+{"id": 65, "question": "cause", "premise": "Het gezin bracht hun hond naar de dierenarts.", "choice1": "De hond kauwde op een bot.", "choice2": "De hond verwondde zijn poot.", "label": 1}
+{"id": 66, "question": "effect", "premise": "De vrouw bungelde het koekje boven de hond.", "choice1": "De hond sprong op.", "choice2": "De hond krabde aan zijn vacht.", "label": 0}
+{"id": 67, "question": "cause", "premise": "Ik heb het bordspel leren spelen.", "choice1": "Mijn vriend legde me de regels uit.", "choice2": "Mijn vriend begreep de regels verkeerd.", "label": 0}
+{"id": 68, "question": "cause", "premise": "De man ging een weekend weg.", "choice1": "Hij wilde ontspannen.", "choice2": "Hij voelde zich tevreden.", "label": 0}
+{"id": 69, "question": "cause", "premise": "De winkel was gesloten.", "choice1": "De eigenaar hielp klanten.", "choice2": "De winkel was aan renovatie toe.", "label": 1}
+{"id": 70, "question": "cause", "premise": "De jongen stemde de radio af.", "choice1": "De zender draaide rockmuziek.", "choice2": "De zender had ruis.", "label": 1}
+{"id": 71, "question": "effect", "premise": "De terrorist liet de bom ontploffen.", "choice1": "De bom ontplofte.", "choice2": "De bom werd gedeactiveerd.", "label": 0}
+{"id": 72, "question": "cause", "premise": "De politie heeft de verdachte geboeid.", "choice1": "De politie riep versterking in.", "choice2": "De verdachte verzette zich bij zijn aanhouding.", "label": 1}
+{"id": 73, "question": "effect", "premise": "De autoriteiten beloofden het slachtoffer van het misdrijf anoniem te houden.", "choice1": "Het slachtoffer had moeite zich details over het misdrijf te herinneren.", "choice2": "Ze hielden de naam van het slachtoffer geheim voor het publiek.", "label": 1}
+{"id": 74, "question": "cause", "premise": "De kleding van de man zit losjes.", "choice1": "Hij kocht ze in de uitverkoop.", "choice2": "Hij viel af.", "label": 1}
+{"id": 75, "question": "effect", "premise": "De klok stopte met tikken.", "choice1": "Ik nam extra tijd om me voor te bereiden.", "choice2": "De klok gaf de verkeerde tijd aan.", "label": 1}
+{"id": 76, "question": "cause", "premise": "De man sloot de paraplu.", "choice1": "Hij stapte uit de auto.", "choice2": "Hij naderde het gebouw.", "label": 1}
+{"id": 77, "question": "cause", "premise": "De man snakte naar een sigaret.", "choice1": "Zijn familie drong er bij hem op aan te stoppen met roken.", "choice2": "Hij was verslaafd aan nicotine.", "label": 1}
+{"id": 78, "question": "effect", "premise": "De man liet eten op de grond vallen.", "choice1": "Zijn hond sprong tegen hem op.", "choice2": "Zijn hond rende naar hem toe om het eten op te eten.", "label": 1}
+{"id": 79, "question": "effect", "premise": "Het meisje was boos op haar vriend.", "choice1": "Het meisje verspreidde een gerucht over haar vriend.", "choice2": "Het meisje vertelde een geheim aan haar vriend.", "label": 0}
+{"id": 80, "question": "effect", "premise": "De voortvluchtige verstopte zich voor de politie.", "choice1": "De politie liet de zaak vallen.", "choice2": "De voortvluchtige bleef op vrije voeten.", "label": 1}
+{"id": 81, "question": "effect", "premise": "Ik heb de fles omgegooid.", "choice1": "De vloeistof in de fles bevroor.", "choice2": "De vloeistof in de fles stroomde eruit.", "label": 1}
+{"id": 82, "question": "cause", "premise": "De vrouw sprak met een buitenlands accent.", "choice1": "Ze kwam uit een rijke familie.", "choice2": "Ze is ge\u00efmigreerd vanuit een ander land.", "label": 1}
+{"id": 83, "question": "cause", "premise": "De mond van de jongen deed pijn.", "choice1": "Hij heeft een paprika gegeten.", "choice2": "Hij blies de kaars uit.", "label": 0}
+{"id": 84, "question": "effect", "premise": "Ik heb een pagina van het boek afgerond.", "choice1": "Ik scheurde de volgende pagina eruit.", "choice2": "Ik sloeg de volgende pagina om.", "label": 1}
+{"id": 85, "question": "cause", "premise": "De service in het restaurant was traag.", "choice1": "Er waren veel lege tafels.", "choice2": "Het restaurant werd druk bezocht.", "label": 1}
+{"id": 86, "question": "effect", "premise": "Ik zag een vrouw beroofd worden op straat.", "choice1": "Ik belde 911.", "choice2": "Ik stopte een taxi.", "label": 0}
+{"id": 87, "question": "cause", "premise": "Mijn buik deed pijn.", "choice1": "Ik jogde op de loopband.", "choice2": "Ik heb verjaardagstaart gegeten.", "label": 1}
+{"id": 88, "question": "cause", "premise": "Ik zette mijn bord in de gootsteen.", "choice1": "Ik ben klaar met eten.", "choice2": "Ik heb het avondeten overgeslagen.", "label": 0}
+{"id": 89, "question": "cause", "premise": "De man sloeg het boek dicht.", "choice1": "Hij was klaar met lezen.", "choice2": "Het zette hem aan het denken.", "label": 0}
+{"id": 90, "question": "cause", "premise": "De jongen las de roman hardop voor aan zijn grootvader.", "choice1": "Zijn grootvader was doof.", "choice2": "Zijn grootvader was blind.", "label": 1}
+{"id": 91, "question": "effect", "premise": "Mijn voet werd gevoelloos.", "choice1": "Ik deed mijn schoenen aan.", "choice2": "Ik schudde mijn voet.", "label": 1}
+{"id": 92, "question": "effect", "premise": "De fotograaf kreeg het kind aan het lachen.", "choice1": "De fotograaf maakte snel de foto van het kind.", "choice2": "De fotograaf veranderde snel de houding van het kind.", "label": 0}
+{"id": 93, "question": "cause", "premise": "Het raam was ondoorzichtig.", "choice1": "Het glas was vies.", "choice2": "De jaloezie\u00ebn waren open.", "label": 0}
+{"id": 94, "question": "cause", "premise": "Ik gleed uit op de vloer.", "choice1": "De tegel was nat.", "choice2": "De tegel was gebarsten.", "label": 0}
+{"id": 95, "question": "effect", "premise": "De man liet het scheermes over zijn kin glijden.", "choice1": "Zijn stoppels groeiden.", "choice2": "Zijn stoppels verdwenen.", "label": 1}
+{"id": 96, "question": "cause", "premise": "De vrouw nam haar gezin mee op vakantie.", "choice1": "Haar man is ontslagen.", "choice2": "Ze kreeg een salarisbonus.", "label": 1}
+{"id": 97, "question": "cause", "premise": "De vrouw werd wakker.", "choice1": "Ze nam slaappillen.", "choice2": "Haar man lag te snurken.", "label": 1}
+{"id": 98, "question": "effect", "premise": "De vrouw rook een aangename geur.", "choice1": "Ze herinnerde zich dat ze haar medicijnen moest innemen.", "choice2": "Ze werd herinnerd aan haar jeugd.", "label": 1}
+{"id": 99, "question": "cause", "premise": "De bar ging dicht.", "choice1": "Het was druk.", "choice2": "Het was 3 uur 's nachts.", "label": 1}
+{"id": 100, "question": "cause", "premise": "De bestuurder is door de politie staande gehouden.", "choice1": "Hij was aan het parkeren.", "choice2": "Hij reed te snel.", "label": 1}
+{"id": 101, "question": "effect", "premise": "De leraar deed een controle.", "choice1": "Ze identificeerde de studenten die afwezig waren.", "choice2": "Ze gaf haar leerlingen een popquiz.", "label": 0}
+{"id": 102, "question": "effect", "premise": "Ik duwde tegen de slinger.", "choice1": "Het kwam langzaam tot stilstand.", "choice2": "Het zwaaide heen en weer.", "label": 1}
+{"id": 103, "question": "effect", "premise": "Het kind schopte tegen de stapel blokken.", "choice1": "De stapel torende boven het hoofd van de jongen uit.", "choice2": "De blokken vielen over het tapijt.", "label": 1}
+{"id": 104, "question": "cause", "premise": "De tiener liep weg van huis.", "choice1": "Hij had zijn ouders nodig.", "choice2": "Zijn ouders mishandelden hem.", "label": 1}
+{"id": 105, "question": "cause", "premise": "Ik heb het sollicitatiegesprek verpest.", "choice1": "De interviewer stelde moeilijke vragen.", "choice2": "Ik anticipeerde op de vragen van de interviewer.", "label": 0}
+{"id": 106, "question": "cause", "premise": "Het farmaceutische bedrijf riep het medicijn terug.", "choice1": "Gebruikers meldden gevaarlijke bijwerkingen.", "choice2": "Gebruikers kregen vullingen op hun recepten.", "label": 0}
+{"id": 107, "question": "effect", "premise": "De man keek op zijn horloge.", "choice1": "Hij besefte zich dat hij iets was vergeten.", "choice2": "Hij besefte zich dat hij vroeg was.", "label": 1}
+{"id": 108, "question": "cause", "premise": "Ik depte de vloer met keukenpapier.", "choice1": "Ik morste sap op de vloer.", "choice2": "De vloer was permanent bevlekt.", "label": 0}
+{"id": 109, "question": "cause", "premise": "De barman weigerde de klant te dienen.", "choice1": "De klant was alleen.", "choice2": "De klant was dronken.", "label": 1}
+{"id": 110, "question": "effect", "premise": "Ik was in de war door de lezing van de professor.", "choice1": "Ik lette op de professor.", "choice2": "Ik stelde de professor vragen.", "label": 1}
+{"id": 111, "question": "effect", "premise": "Het boek werd ongeschikt geacht voor kinderen.", "choice1": "Scholen hebben het uit de bibliotheken verbannen.", "choice2": "Leraren verplichten studenten om het te lezen.", "label": 0}
+{"id": 112, "question": "effect", "premise": "De man smeekte om vergiffenis.", "choice1": "De vrouw kreeg medelijden met hem.", "choice2": "De vrouw maakte grapjes met hem.", "label": 0}
+{"id": 113, "question": "effect", "premise": "Ik heb een pakket per post ontvangen.", "choice1": "Het pakket wekte mijn nieuwsgierigheid.", "choice2": "Ik heb het pakket naar het postkantoor gebracht.", "label": 0}
+{"id": 114, "question": "effect", "premise": "De surfer ving de golf.", "choice1": "De golf droeg haar naar de kust.", "choice2": "Ze peddelde haar plank de oceaan in.", "label": 0}
+{"id": 115, "question": "effect", "premise": "De spreker ontwapende haar tegenstander in het debat.", "choice1": "De spreker feliciteerde haar tegenstander.", "choice2": "De spreker won het debat.", "label": 1}
+{"id": 116, "question": "cause", "premise": "Ik verhuisde naar een nieuwe stad.", "choice1": "Ik heb een beterbetaalde baan gevonden.", "choice2": "Mijn zoon werd geboren.", "label": 0}
+{"id": 117, "question": "cause", "premise": "Ik vermeed een direct antwoord op de vraag te geven.", "choice1": "De vraag maakte me ongemakkelijk.", "choice2": "Ik wilde eerlijk zijn.", "label": 0}
+{"id": 118, "question": "cause", "premise": "De student kreeg hechtenis.", "choice1": "Hij had een grote mond tegen de leraar.", "choice2": "De leraar beoordeelde zijn huiswerk.", "label": 0}
+{"id": 119, "question": "cause", "premise": "De handen van de jongen trilden.", "choice1": "Hij was van plan het meisje mee uit te vragen.", "choice2": "Zijn handpalmen waren koud en bezweet.", "label": 0}
+{"id": 120, "question": "cause", "premise": "De fans in het stadion juichten.", "choice1": "De wedstrijd eindigde in een gelijkspel.", "choice2": "De speler scoorde.", "label": 1}
+{"id": 121, "question": "effect", "premise": "Het meisje reed op haar fiets de heuvel af.", "choice1": "Haar fiets slingerde.", "choice2": "Haar fiets versnelde.", "label": 1}
+{"id": 122, "question": "effect", "premise": "Een man dringde voor in de lange rij.", "choice1": "Ik confronteerde hem.", "choice2": "Ik glimlachte naar hem.", "label": 0}
+{"id": 123, "question": "cause", "premise": "De binnenkant van de trein werd donker.", "choice1": "De trein reed door een tunnel.", "choice2": "De trein raakte van de rails.", "label": 0}
+{"id": 124, "question": "effect", "premise": "De man dacht na over het schilderij.", "choice1": "Hij voelde ontzag.", "choice2": "Hij zakte in elkaar.", "label": 0}
+{"id": 125, "question": "cause", "premise": "De schildpad verstopte zich in zijn schild.", "choice1": "Het at een vis.", "choice2": "Het ontdekte een roofdier.", "label": 1}
+{"id": 126, "question": "cause", "premise": "Het meisje gaf haar kleren aan haar jongere zus.", "choice1": "De kleren waren aan flarden.", "choice2": "Ze is de kleren ontgroeid.", "label": 1}
+{"id": 127, "question": "effect", "premise": "Verschillende getuigen van het misdrijf hebben tegen de verdachte getuigd.", "choice1": "De verdachte werd vrijgesproken.", "choice2": "De verdachte is veroordeeld.", "label": 1}
+{"id": 128, "question": "cause", "premise": "De ouders lieten hun kinderen achter bij een oppas.", "choice1": "Hun jongste kind ging naar de peuterspeelzaal.", "choice2": "Ze maakten plannen om hun trouwdag te vieren.", "label": 1}
+{"id": 129, "question": "cause", "premise": "De reis duurde lang.", "choice1": "De chauffeur praatte de hele weg.", "choice2": "De bestuurder maakte een verkeerde afslag.", "label": 1}
+{"id": 130, "question": "effect", "premise": "Er werd veel reclame gemaakt voor het product.", "choice1": "Consumenten herkenden het product.", "choice2": "Het product raakte verouderd.", "label": 0}
+{"id": 131, "question": "effect", "premise": "Ik wreef de zeep tussen mijn handen.", "choice1": "De zeep schuimde.", "choice2": "Mijn handen werden gevoelloos.", "label": 0}
+{"id": 132, "question": "effect", "premise": "De cowgirl gooide haar lasso naar het paard.", "choice1": "De lasso greep het paard vast.", "choice2": "Het paard draafde de stal in.", "label": 0}
+{"id": 133, "question": "effect", "premise": "De groep zag de faux pas van de vrouw over het hoofd.", "choice1": "De vrouw was opgelucht.", "choice2": "De vrouw verontschuldigde zich.", "label": 0}
+{"id": 134, "question": "effect", "premise": "Het meisje kwam een onbekend woord tegen in haar leerboek.", "choice1": "Ze zocht de term op in het woordenboek.", "choice2": "Ze gooide het leerboek door de kamer.", "label": 0}
+{"id": 135, "question": "effect", "premise": "De man raakte arbeidsongeschikt.", "choice1": "Zijn familie bood hem financi\u00eble steun aan.", "choice2": "Zijn familie verbrak het contact met hem.", "label": 0}
+{"id": 136, "question": "effect", "premise": "De batterij van de zaklamp was leeg.", "choice1": "Ik heb het uit elkaar gehaald.", "choice2": "Ik heb de batterijen vervangen.", "label": 1}
+{"id": 137, "question": "effect", "premise": "Het stinkdier bespoot de hond.", "choice1": "De hond had een vieze geur.", "choice2": "Het stinkdier zwierf door het bos.", "label": 0}
+{"id": 138, "question": "effect", "premise": "Ik krabde aan mijn huid.", "choice1": "Mijn jeuk ging weg.", "choice2": "Mijn litteken vervaagde.", "label": 0}
+{"id": 139, "question": "cause", "premise": "Ik schreef een bedankbriefje aan mijn oma.", "choice1": "Ze werd vergeetachtig.", "choice2": "Ze heeft me een cadeau gestuurd.", "label": 1}
+{"id": 140, "question": "effect", "premise": "Een inbreker heeft ingebroken in de woning.", "choice1": "De huiseigenaren sliepen.", "choice2": "Het beveiligingsalarm ging af.", "label": 1}
+{"id": 141, "question": "effect", "premise": "Ik hield de deur open voor de vrouw die achter me binnenkwam.", "choice1": "De deur sloeg dicht.", "choice2": "De vrouw bedankte me.", "label": 1}
+{"id": 142, "question": "effect", "premise": "De spiegel in de badkamer was beslagen.", "choice1": "Het meisje zette de ventilator aan.", "choice2": "Het meisje bracht haar make-up aan.", "label": 0}
+{"id": 143, "question": "cause", "premise": "De beveiliger viel de man aan.", "choice1": "De man tastte in zijn zak.", "choice2": "De man toonde een wapen.", "label": 1}
+{"id": 144, "question": "effect", "premise": "De bestuurder draaide aan het stuur.", "choice1": "De auto stopte.", "choice2": "De auto draaide.", "label": 1}
+{"id": 145, "question": "cause", "premise": "Het leger gaf de strijd over.", "choice1": "Ze waren in de minderheid.", "choice2": "Ze bestormden de stad.", "label": 0}
+{"id": 146, "question": "effect", "premise": "De marine bombardeerde het schip.", "choice1": "Het schip crashte in de pier.", "choice2": "De wrakstukken van het schip zonken in zee.", "label": 1}
+{"id": 147, "question": "cause", "premise": "Ik heb mijn overhemd gestreken.", "choice1": "Het was schoon.", "choice2": "Het was gerimpeld.", "label": 1}
+{"id": 148, "question": "effect", "premise": "Het meisje was duizelig.", "choice1": "Ze verloor haar evenwicht.", "choice2": "Ze deed rekoefeningen.", "label": 0}
+{"id": 149, "question": "cause", "premise": "De bestuurder stopte aan de kant van de weg.", "choice1": "Hij reed over een kruispunt.", "choice2": "Hij zag een gestrande auto.", "label": 1}
+{"id": 150, "question": "cause", "premise": "Het ziekenhuis stuurde de pati\u00ebnt naar huis.", "choice1": "De symptomen van de pati\u00ebnt verdwenen.", "choice2": "De familie van de pati\u00ebnt bezocht hem.", "label": 0}
+{"id": 151, "question": "cause", "premise": "Het kind liep een levensbedreigende ziekte op.", "choice1": "Ze is niet gevaccineerd.", "choice2": "Ze is geadopteerd.", "label": 0}
+{"id": 152, "question": "effect", "premise": "We vonden lege stoelen in het theater.", "choice1": "De film begon.", "choice2": "We gingen zitten.", "label": 1}
+{"id": 153, "question": "effect", "premise": "De ouders herkenden de creativiteit van hun dochter.", "choice1": "Ze leerden haar fietsen.", "choice2": "Ze moedigden haar aan om kunstenaar te worden.", "label": 1}
+{"id": 154, "question": "effect", "premise": "De jongen draaide de potdeksel.", "choice1": "De pot werd warm.", "choice2": "Het deksel kwam eraf.", "label": 1}
+{"id": 155, "question": "cause", "premise": "De vrouw kreeg een diploma.", "choice1": "Ze schreef zich in op de universiteit.", "choice2": "Ze studeerde af aan de universiteit.", "label": 1}
+{"id": 156, "question": "cause", "premise": "Ik dronk de kruik water leeg.", "choice1": "Ik liep naar boven.", "choice2": "Ik heb 8 kilometer hardgelopen.", "label": 1}
+{"id": 157, "question": "effect", "premise": "Ik kwam een plas tegen op de stoep.", "choice1": "Ik sprong over de plas.", "choice2": "Ik speelde in de plas.", "label": 0}
+{"id": 158, "question": "cause", "premise": "De vrouw bedekte haar oren.", "choice1": "Het brandalarm ging af.", "choice2": "De vrouw rook rook.", "label": 0}
+{"id": 159, "question": "effect", "premise": "De archeoloog heeft de plek opgegraven.", "choice1": "Ze heeft oude artefacten opgegraven.", "choice2": "Ze las over de geschiedenis van de locatie.", "label": 0}
+{"id": 160, "question": "cause", "premise": "Het publiek joeg de cabaretier van het podium.", "choice1": "Hij vertelde een racistische grap.", "choice2": "Hij vermaakte het publiek.", "label": 0}
+{"id": 161, "question": "cause", "premise": "De coach gaf zijn speler een high five.", "choice1": "De speler kreeg een penalty.", "choice2": "De speler scoorde een punt.", "label": 1}
+{"id": 162, "question": "effect", "premise": "Ik gooi de bal omhoog.", "choice1": "De bal rolde over de grond.", "choice2": "De bal raakte het plafond.", "label": 1}
+{"id": 163, "question": "effect", "premise": "Mijn adem rook naar knoflook.", "choice1": "Ik veegde mijn mond af.", "choice2": "Ik poetste mijn tanden.", "label": 1}
+{"id": 164, "question": "effect", "premise": "De man was verdwaald.", "choice1": "Hij vroeg de weg.", "choice2": "Hij tekende een kaart.", "label": 0}
+{"id": 165, "question": "effect", "premise": "De baby trok aan het haar van de moeder.", "choice1": "De baby boerde.", "choice2": "De moeder vertrekte haar gezicht.", "label": 1}
+{"id": 166, "question": "effect", "premise": "Ik stond op \u00e9\u00e9n been.", "choice1": "Mijn evenwicht wankelde.", "choice2": "Ik knielde neer.", "label": 0}
+{"id": 167, "question": "effect", "premise": "Ik trapte het gaspedaal in.", "choice1": "De auto versnelde.", "choice2": "De autodeur ging open.", "label": 0}
+{"id": 168, "question": "cause", "premise": "Mijn auto is afgesleept.", "choice1": "Ik was verkeerd geparkeerd.", "choice2": "Ik kreeg de accu aan de praat.", "label": 0}
+{"id": 169, "question": "cause", "premise": "De vrouw kwam weg met de misdaad.", "choice1": "Haar handlanger werd aangehouden.", "choice2": "Ze vernietigde het bewijs.", "label": 1}
+{"id": 170, "question": "cause", "premise": "Het stof ging van het bureau af.", "choice1": "Ik veegde het bureau schoon met een doek.", "choice2": "Ik heb de boeken van het bureau gehaald.", "label": 0}
+{"id": 171, "question": "effect", "premise": "De motorrijder draaide aan de gashendel.", "choice1": "De motor kwam tot stilstand.", "choice2": "De motorfiets schoot naar voren.", "label": 1}
+{"id": 172, "question": "effect", "premise": "De leraar betrapte de leerling op kauwgom kauwen.", "choice1": "De kauwgom plakte aan de schoen van de leerling.", "choice2": "De leerling spuugde de kauwgom uit.", "label": 1}
+{"id": 173, "question": "effect", "premise": "De gastheer serveerde het diner aan zijn gasten.", "choice1": "Zijn gasten waren dankbaar.", "choice2": "Zijn gasten leden honger.", "label": 0}
+{"id": 174, "question": "cause", "premise": "De jongen klom in de boom.", "choice1": "Een kat zat vast in de boom.", "choice2": "Een vogel bouwde een nest in de boom.", "label": 0}
+{"id": 175, "question": "cause", "premise": "De stoel piepte.", "choice1": "De man droeg de stoel naar zijn kantoor.", "choice2": "De man schoof de stoel dichter bij zijn bureau.", "label": 1}
+{"id": 176, "question": "cause", "premise": "De vader zette de televisie van de kinderen uit.", "choice1": "Voor de kinderen was het bedtijd.", "choice2": "De kinderen waren tekenfilms aan het kijken.", "label": 0}
+{"id": 177, "question": "cause", "premise": "De man hield zijn adem in.", "choice1": "Hij dook onder water.", "choice2": "Hij liep door het water.", "label": 0}
+{"id": 178, "question": "effect", "premise": "Ik botste onhandig tegen de vreemdeling op.", "choice1": "Ik rende weg.", "choice2": "Ik verontschuldigde me bij hem.", "label": 1}
+{"id": 179, "question": "cause", "premise": "De boot kapseisde.", "choice1": "De kapitein hief het zeil.", "choice2": "Het werd gevangen in een orkaan.", "label": 1}
+{"id": 180, "question": "cause", "premise": "De moeder vermoedde dat haar zoon loog.", "choice1": "Hij weigerde met haar te praten.", "choice2": "Hij vermeed oogcontact met haar.", "label": 1}
+{"id": 181, "question": "cause", "premise": "De jonge vrouw werd de toegang tot de bar ontzegd.", "choice1": "Haar vrienden lieten haar zitten.", "choice2": "Ze is haar identiteitsbewijs vergeten.", "label": 1}
+{"id": 182, "question": "cause", "premise": "Er vormde zich een krater op de maan.", "choice1": "Een komeet passeerde de maan.", "choice2": "Een komeet kwam in botsing met de maan.", "label": 1}
+{"id": 183, "question": "effect", "premise": "Ik plantte de zaden in de grond.", "choice1": "Ik heb de grond water gegeven.", "choice2": "De zaadjes ontkiemden.", "label": 1}
+{"id": 184, "question": "cause", "premise": "De weldoener verzocht om anoniem te blijven.", "choice1": "Hij wilde zijn privacy behouden.", "choice2": "Hij steunde het doel achter zijn donatie.", "label": 0}
+{"id": 185, "question": "effect", "premise": "De vrouw schaamde zich voor het litteken op haar gezicht.", "choice1": "Ze legde het litteken uit aan vreemden.", "choice2": "Ze verborg het litteken met make-up.", "label": 1}
+{"id": 186, "question": "effect", "premise": "De dokter maakte een r\u00f6ntgenfoto van de arm van de pati\u00ebnt.", "choice1": "Hij ontdekte dat de arm van de pati\u00ebnt gebroken was.", "choice2": "Hij deed gips om de arm van de pati\u00ebnt.", "label": 0}
+{"id": 187, "question": "cause", "premise": "De jongen vulde de emmer met zand.", "choice1": "Hij was schelpen aan het verzamelen in het zand.", "choice2": "Hij bouwde een zandkasteel.", "label": 1}
+{"id": 188, "question": "effect", "premise": "De vrouw heeft haar computerhardware ge\u00fcpgraded.", "choice1": "Ze verwijderde oude bestanden op de computer.", "choice2": "Ze installeerde nieuwe software op de computer.", "label": 1}
+{"id": 189, "question": "effect", "premise": "Het meisje trad op in een dansoptreden.", "choice1": "Haar ouders leerden haar hoe ze moest dansen.", "choice2": "Haar ouders kwamen naar het optreden kijken.", "label": 1}
+{"id": 190, "question": "effect", "premise": "De baby huilde in zijn wieg.", "choice1": "De moeder tilde de baby op.", "choice2": "De baby kroop naar de moeder.", "label": 0}
+{"id": 191, "question": "effect", "premise": "De vrouw had een religieuze bewustwording.", "choice1": "Ze begon naar de kerk te gaan.", "choice2": "Ze begon door het buitenland te reizen.", "label": 0}
+{"id": 192, "question": "effect", "premise": "De lades van het bureau waren rommelig.", "choice1": "Ik heb onnodige inhoud weggegooid.", "choice2": "Ik deed de lades op slot.", "label": 0}
+{"id": 193, "question": "cause", "premise": "De student pronkt met zijn toetscijfer aan zijn klasgenoten.", "choice1": "Hij kreeg een perfecte score.", "choice2": "Hij veinsde interesse in de klas.", "label": 0}
+{"id": 194, "question": "cause", "premise": "De jongen had heimwee.", "choice1": "Hij ging op zomerkamp.", "choice2": "Hij kibbelde met zijn zus.", "label": 0}
+{"id": 195, "question": "cause", "premise": "De raket vloog de lucht in.", "choice1": "Het meisje lanceerde het.", "choice2": "Het meisje heeft het ontworpen.", "label": 0}
+{"id": 196, "question": "effect", "premise": "De jongen mompelde zijn antwoord tegen zijn moeder.", "choice1": "Zijn moeder zei dat hij moest fluisteren.", "choice2": "Zijn moeder zei dat hij duidelijker moest praten.", "label": 1}
+{"id": 197, "question": "cause", "premise": "Mijn vlucht is vertraagd.", "choice1": "Er werden tornado's waargenomen in het gebied.", "choice2": "Ik werd opgehouden bij de beveiliging van de luchthaven.", "label": 0}
+{"id": 198, "question": "cause", "premise": "De rookmelder ging af.", "choice1": "Ik heb een kaars aangestoken.", "choice2": "Ik heb mijn avondeten laten aanbranden.", "label": 1}
+{"id": 199, "question": "effect", "premise": "De vaas brak.", "choice1": "Ik heb het gestencild.", "choice2": "Ik heb het weer in elkaar gelijmd.", "label": 1}
+{"id": 200, "question": "cause", "premise": "De vrouw voelde een elektrische schok.", "choice1": "Ze greep de deurknop vast.", "choice2": "Ze bonsde op de deur.", "label": 0}
+{"id": 201, "question": "cause", "premise": "De man had lippenstift op zijn wang.", "choice1": "De vrouw kuste hem.", "choice2": "De vrouw liet hem blozen.", "label": 0}
+{"id": 202, "question": "cause", "premise": "Ik sprong instinctief van schrik op.", "choice1": "Ik voelde dat iemand me van achteren naderde.", "choice2": "Ik hoorde mensen grinniken in de aangrenzende kamer.", "label": 0}
+{"id": 203, "question": "effect", "premise": "De tuinman wilde dat zijn planten opleefden.", "choice1": "Hij plantte verschillende zaden.", "choice2": "Hij deed kunstmest in de grond.", "label": 1}
+{"id": 204, "question": "cause", "premise": "Een waterleiding in huis barstte.", "choice1": "Het water was onhygi\u00ebnisch.", "choice2": "De pijp was bevroren.", "label": 1}
+{"id": 205, "question": "effect", "premise": "De tailleband van mijn broek zat los.", "choice1": "Ik deed een riem om.", "choice2": "Ik zette een hoed op.", "label": 0}
+{"id": 206, "question": "cause", "premise": "Het bedrijf verloor geld.", "choice1": "De producten kregen positieve recensies van consumenten.", "choice2": "Sommige van zijn producten zijn defect gefabriceerd.", "label": 1}
+{"id": 207, "question": "cause", "premise": "De huurders werden uit het appartement gezet.", "choice1": "Ze verzuimden hun huur te betalen.", "choice2": "Ze konden het goed vinden met hun huisbaas.", "label": 0}
+{"id": 208, "question": "effect", "premise": "De man werd wakker met kiespijn.", "choice1": "Hij miste een afspraak met de tandarts.", "choice2": "Hij maakte een afspraak met de tandarts.", "label": 1}
+{"id": 209, "question": "cause", "premise": "Het team verloor de wedstrijd.", "choice1": "Hun beste speler was geblesseerd.", "choice2": "Hun coach moedigde ze aan.", "label": 0}
+{"id": 210, "question": "cause", "premise": "De ouders verboden hun kinderen de film te kijken.", "choice1": "De film werd voor 16+ beoordeeld.", "choice2": "De film was geanimeerd.", "label": 0}
+{"id": 211, "question": "cause", "premise": "De vrouw heeft de e-mail verwijderd.", "choice1": "De afzender probeerde haar geld te ontfutselen.", "choice2": "De afzender vroeg haar om een reactie.", "label": 0}
+{"id": 212, "question": "cause", "premise": "De politie schrapte de vrouw van de lijst met verdachten.", "choice1": "De politie heeft haar verhoord.", "choice2": "Haar alibi klopte.", "label": 1}
+{"id": 213, "question": "effect", "premise": "De klimmers bereikten de top van de berg.", "choice1": "Ze kwamen een lawine tegen.", "choice2": "Ze feliciteerden elkaar.", "label": 1}
+{"id": 214, "question": "effect", "premise": "De vandalen gooiden een steen naar het raam.", "choice1": "Het raam barstte.", "choice2": "Het raam besloeg.", "label": 0}
+{"id": 215, "question": "effect", "premise": "De onthullingen van de waarzegger waren overtuigend.", "choice1": "Ze kreeg veel terugkerende klanten.", "choice2": "Veel klanten vroegen om terugbetaling.", "label": 0}
+{"id": 216, "question": "cause", "premise": "De make-up van de vrouw is uitgesmeerd.", "choice1": "Ze borstelde haar haren.", "choice2": "Ze veegde haar ogen af.", "label": 1}
+{"id": 217, "question": "effect", "premise": "De winst van het bedrijf begon af te vlakken.", "choice1": "Het verhoogde zijn marketinginspanningen voor nieuwe producten.", "choice2": "Het verplaatste het hoofdkantoor naar een locatie in een buitenwijk.", "label": 0}
+{"id": 218, "question": "effect", "premise": "Het antwoord van de student op het examen was onjuist.", "choice1": "De leraar voegde bonuspunten toe aan het cijfer van de student.", "choice2": "De leraar trok punten af van het cijfer van de student.", "label": 1}
+{"id": 219, "question": "effect", "premise": "Het meisje wilde de juiste etiquette demonstreren.", "choice1": "Na het eten gooide ze haar servet weg.", "choice2": "Voor het eten legde ze haar servet op haar schoot.", "label": 1}
+{"id": 220, "question": "effect", "premise": "De rechercheur liet zijn badge zien aan de politieagent.", "choice1": "De politieagent nam de badge van de rechercheur in beslag.", "choice2": "De politieagent liet de rechercheur de plaats delict betreden.", "label": 1}
+{"id": 221, "question": "effect", "premise": "Het meisje wilde haar moeder gelukkig maken.", "choice1": "Het meisje at de koekjes die haar moeder had gebakken.", "choice2": "Het meisje plukte een bloem voor haar moeder.", "label": 1}
+{"id": 222, "question": "effect", "premise": "De peuter begon te huilen.", "choice1": "Haar ouders hebben haar speelgoed afgepakt.", "choice2": "Haar ouders gaven haar een speeltje.", "label": 1}
+{"id": 223, "question": "effect", "premise": "De vreemdeling schreeuwde naar me in een vreemde taal.", "choice1": "Ik staarde hem wezenloos aan.", "choice2": "Ik stopte om met hem te praten.", "label": 0}
+{"id": 224, "question": "effect", "premise": "De man ontdekte belastend bewijsmateriaal tegen zijn vijand.", "choice1": "De man vermeed zijn vijand.", "choice2": "De man chanteerde zijn vijand.", "label": 1}
+{"id": 225, "question": "effect", "premise": "Het meisje duwde zichzelf van de bovenkant van de glijbaan.", "choice1": "Ze gleed van de glijbaan.", "choice2": "Ze kroop de glijbaan op.", "label": 0}
+{"id": 226, "question": "cause", "premise": "Mijn mond viel open.", "choice1": "Ik was ongelukkig.", "choice2": "Ik was geschokt.", "label": 1}
+{"id": 227, "question": "effect", "premise": "Het kind gehoorzaamde haar ouders niet.", "choice1": "Haar ouders omhelsden haar.", "choice2": "Haar ouders hebben haar gestraft.", "label": 1}
+{"id": 228, "question": "effect", "premise": "De auto zag er smerig uit.", "choice1": "De eigenaar heeft hem naar de wasstraat gebracht.", "choice2": "De eigenaar nam het mee voor een verfbeurt.", "label": 0}
+{"id": 229, "question": "effect", "premise": "Mijn vriend heeft mijn ticket betaald.", "choice1": "Ik heb een terugbetaling aangevraagd.", "choice2": "Ik heb haar terugbetaald.", "label": 1}
+{"id": 230, "question": "cause", "premise": "De vrouw werd ten onrechte veroordeeld voor de misdaad.", "choice1": "De jury was eerlijk.", "choice2": "Ze was er ingeluisd.", "label": 1}
+{"id": 231, "question": "effect", "premise": "Het meisje opende de schaar op het papier.", "choice1": "Het papier werd in twee\u00ebn gespleten.", "choice2": "Het papier kreukelde.", "label": 0}
+{"id": 232, "question": "cause", "premise": "De vrouw bezocht haar familie.", "choice1": "Ze wantrouwde hen.", "choice2": "Ze heeft hen gemist.", "label": 1}
+{"id": 233, "question": "effect", "premise": "Ik barstte in lachen uit.", "choice1": "Mijn tanden begonnen te klapperen.", "choice2": "Mijn ogen vulden zich met tranen.", "label": 1}
+{"id": 234, "question": "effect", "premise": "De schooldirecteur voerde een kledingvoorschrift in.", "choice1": "Leerlingen protesteerden tegen het besluit.", "choice2": "Leerlingen werden van school gestuurd.", "label": 0}
+{"id": 235, "question": "cause", "premise": "De ballon zette uit.", "choice1": "Ik blies erin.", "choice2": "Ik prikte erin.", "label": 0}
+{"id": 236, "question": "effect", "premise": "Ik wilde de sfeer van het gesprek verlichten.", "choice1": "Ik bleef stil.", "choice2": "Ik vertelde een grap.", "label": 1}
+{"id": 237, "question": "cause", "premise": "De man brak zijn teen.", "choice1": "Hij heeft een gat in zijn sok.", "choice2": "Hij liet een hamer op zijn voet vallen.", "label": 1}
+{"id": 238, "question": "effect", "premise": "De man kreeg schuldgevoel.", "choice1": "Hij manipuleerde zijn vriend.", "choice2": "Hij gaf zijn onbezonnenheid toe.", "label": 1}
+{"id": 239, "question": "effect", "premise": "In de hal van de school brak een vuistgevecht uit.", "choice1": "De directeur schorste de betrokken studenten.", "choice2": "De directeur heeft de lessen voor vandaag afgezegd.", "label": 0}
+{"id": 240, "question": "cause", "premise": "Op zolder lagen de fotoalbums stof te happen.", "choice1": "Ze bleven jarenlang onaangeroerd.", "choice2": "De familie haalde herinneringen op bij de foto's.", "label": 0}
+{"id": 241, "question": "cause", "premise": "Ik werd afgeleid van mijn gesprek met de vrouw.", "choice1": "Iedereen in de kamer was aan het praten.", "choice2": "De vrouw vertelde een grappig verhaal.", "label": 0}
+{"id": 242, "question": "effect", "premise": "Ik deed munten in de wasmachine bij de wasserette.", "choice1": "De machine werd ingeschakeld.", "choice2": "Ik had geen wasmiddel meer.", "label": 0}
+{"id": 243, "question": "cause", "premise": "De familie stelde de barbecue uit.", "choice1": "De voorspelling riep onweer op.", "choice2": "Het was een vakantieweekend.", "label": 0}
+{"id": 244, "question": "cause", "premise": "Er lekte lucht uit de strandbal.", "choice1": "Het was opgeblazen.", "choice2": "Er zat een gat in.", "label": 1}
+{"id": 245, "question": "effect", "premise": "Het gesprek van onze groep viel geleidelijk stil.", "choice1": "Ik voelde me ongemakkelijk.", "choice2": "Ik werd woedend.", "label": 0}
+{"id": 246, "question": "effect", "premise": "Ik balde het snoeppapiertje in mijn vuist.", "choice1": "De wikkel kreukelde.", "choice2": "De wikkel scheurde.", "label": 0}
+{"id": 247, "question": "effect", "premise": "De vrouw drukte op de pianotoets.", "choice1": "Er klonk een geluid.", "choice2": "De toets raakte vast.", "label": 0}
+{"id": 248, "question": "effect", "premise": "Het meisje ontmoette haar favoriete acteur.", "choice1": "Ze ging naar zijn nieuwe film kijken.", "choice2": "Ze vroeg hem om zijn handtekening.", "label": 1}
+{"id": 249, "question": "cause", "premise": "De voertuigen reden langzaam.", "choice1": "Het was bewolkt.", "choice2": "Het was mistig.", "label": 1}
+{"id": 250, "question": "cause", "premise": "De kroonluchter spatte uiteen op de vloer.", "choice1": "De kroonluchter viel van het plafond.", "choice2": "De lichten van de kroonluchter flikkerden aan en uit.", "label": 0}
+{"id": 251, "question": "cause", "premise": "De kat spinde.", "choice1": "Het krabde me.", "choice2": "Ik aaide het.", "label": 1}
+{"id": 252, "question": "effect", "premise": "De jongen duwde zijn zus.", "choice1": "Zijn zus verklikte hem.", "choice2": "Ze speelden verstoppertje.", "label": 0}
+{"id": 253, "question": "effect", "premise": "De man werd zwaarder.", "choice1": "Hij heeft zijn pak aangepast.", "choice2": "Hij heeft zijn schoenen laten poetsen.", "label": 0}
+{"id": 254, "question": "effect", "premise": "De wolken zagen er donker uit.", "choice1": "Ik heb mijn laptop meegenomen naar mijn werk.", "choice2": "Ik nam mijn paraplu mee naar het werk.", "label": 1}
+{"id": 255, "question": "effect", "premise": "De motor van het vliegtuig was defect.", "choice1": "Het vliegtuig stortte neer.", "choice2": "De piloot maakte een fout.", "label": 0}
+{"id": 256, "question": "cause", "premise": "Auto's reden naar de berm van de weg.", "choice1": "Het stoplicht sprong op groen.", "choice2": "Een loeiende ambulance naderde.", "label": 1}
+{"id": 257, "question": "cause", "premise": "De jongen raakte het stuk zeep kwijt.", "choice1": "De zeep was glad.", "choice2": "De zeep verspreidde een geur.", "label": 0}
+{"id": 258, "question": "effect", "premise": "De knoop van mijn shirt viel eraf.", "choice1": "Ik naaide de knoop weer vast.", "choice2": "Ik heb de knoop weer vastgelijmd.", "label": 0}
+{"id": 259, "question": "cause", "premise": "De beroemdheid droeg een zonnebril.", "choice1": "Ze wilde haar fans bedanken.", "choice2": "Ze wilde herkenning vermijden.", "label": 1}
+{"id": 260, "question": "effect", "premise": "Mijn oma is overleden.", "choice1": "Mijn familie hield een begrafenis.", "choice2": "Mijn familie hield een re\u00fcnie.", "label": 0}
+{"id": 261, "question": "effect", "premise": "De politieagent hield de beroemdheid staande.", "choice1": "De beroemdheid probeerde de agent om te kopen.", "choice2": "De beroemdheid klaagde de politieagent aan.", "label": 0}
+{"id": 262, "question": "cause", "premise": "De man onthulde persoonlijke informatie aan de therapeut.", "choice1": "Hij vertrouwde de therapeut.", "choice2": "Hij was het niet eens met de therapeut.", "label": 0}
+{"id": 263, "question": "cause", "premise": "De man viel bewusteloos neer.", "choice1": "De aanvaller sloeg de man op het hoofd.", "choice2": "De dader nam de portemonnee van de man mee.", "label": 0}
+{"id": 264, "question": "cause", "premise": "Ik benaderde de man.", "choice1": "Hij zag er druk uit.", "choice2": "Hij zag er bekend uit.", "label": 1}
+{"id": 265, "question": "cause", "premise": "De leider werd geprezen.", "choice1": "Hij vocht tegen armoede.", "choice2": "Hij verhoogde belastingen.", "label": 0}
+{"id": 266, "question": "effect", "premise": "De man las de strip in de krant.", "choice1": "Hij nam een slok koffie.", "choice2": "Hij grinnikte.", "label": 1}
+{"id": 267, "question": "cause", "premise": "Mijn mailbox stroomde over van brieven.", "choice1": "Het deksel van de brievenbus brak.", "choice2": "Ik was twee weken op vakantie.", "label": 1}
+{"id": 268, "question": "effect", "premise": "De bananen rijpten.", "choice1": "We perstten ze.", "choice2": "We aten ze.", "label": 1}
+{"id": 269, "question": "effect", "premise": "De chef-kok drukte op het deeg.", "choice1": "Het deeg brokkelde af.", "choice2": "Het deeg werd plat.", "label": 1}
+{"id": 270, "question": "cause", "premise": "De klei verhardde.", "choice1": "De pottenbakker rolde de klei tot een bal.", "choice2": "De pottenbakker deed de klei in de oven.", "label": 1}
+{"id": 271, "question": "cause", "premise": "Er zaten blaren op mijn voeten.", "choice1": "Ik ben gaan wandelen.", "choice2": "Ik ben gaan zwemmen.", "label": 0}
+{"id": 272, "question": "effect", "premise": "De vrouw heeft haar vriend verraden.", "choice1": "Haar vriend stuurde haar een wenskaart.", "choice2": "Haar vriend verbrak het contact met haar.", "label": 1}
+{"id": 273, "question": "cause", "premise": "De man merkte de vrouw op.", "choice1": "Hij ving een vleugje van haar parfum op.", "choice2": "Hij stond met zijn rug naar haar toe.", "label": 0}
+{"id": 274, "question": "effect", "premise": "De vrouw en haar vriend kregen ruzie.", "choice1": "Ze zagen elkaar niet meer.", "choice2": "Ze planden samen een vakantie.", "label": 0}
+{"id": 275, "question": "effect", "premise": "De pestkop stak zijn voet uit voor zijn klasgenoot.", "choice1": "De pestkop pakte zijn klasgenoot op.", "choice2": "De klasgenoot van de pestkop struikelde.", "label": 1}
+{"id": 276, "question": "effect", "premise": "De man wilde wraak nemen op zijn vijand.", "choice1": "De man beschuldigde zijn vijand van een misdaad.", "choice2": "De man sloot een wapenstilstand af met zijn vijand.", "label": 0}
+{"id": 277, "question": "effect", "premise": "Ik dronk een kop koffie.", "choice1": "Mijn geeuw hield op.", "choice2": "Ik dommelde in slaap.", "label": 0}
+{"id": 278, "question": "cause", "premise": "De vrouw werd aangezien voor haar zus.", "choice1": "De vrouw was close met haar zus.", "choice2": "De vrouw leek op haar zus.", "label": 1}
+{"id": 279, "question": "cause", "premise": "De man maakte een fout in zijn berekeningen.", "choice1": "Hij controleerde zijn werk.", "choice2": "Zijn werk was haastig.", "label": 1}
+{"id": 280, "question": "cause", "premise": "De bril van de vrouw besloeg.", "choice1": "Ze leunde achterover bij het zwembad.", "choice2": "Ze ging de sauna in.", "label": 1}
+{"id": 281, "question": "effect", "premise": "De klant vroeg zich af wat de prijs van het artikel was.", "choice1": "Hij controleerde het prijskaartje.", "choice2": "Hij besloot het te kopen.", "label": 0}
+{"id": 282, "question": "cause", "premise": "De gastheer van de trivia-show riep de deelnemer op voor een antwoord.", "choice1": "De deelnemer stond aan de leiding.", "choice2": "De deelnemer activeerde de zoemer.", "label": 1}
+{"id": 283, "question": "cause", "premise": "De jongen was bang om naar bed te gaan.", "choice1": "Hij deed zijn nachtlampje aan.", "choice2": "Hij keek naar een horrorfilm.", "label": 1}
+{"id": 284, "question": "effect", "premise": "De vrouw wilde dokter worden.", "choice1": "Ze is op bezoek geweest in het ziekenhuis.", "choice2": "Ze studeerde geneeskunde.", "label": 1}
+{"id": 285, "question": "effect", "premise": "De jongen vond het televisieprogramma saai.", "choice1": "Hij heeft het opgenomen.", "choice2": "Hij zette het af.", "label": 1}
+{"id": 286, "question": "effect", "premise": "Mijn dochter kreeg een allergie-aanval.", "choice1": "Ik moedigde haar aan om diep adem te halen.", "choice2": "Ik heb haar naar de eerste hulp gebracht.", "label": 1}
+{"id": 287, "question": "effect", "premise": "De jongen had moeite zijn overhemd dicht te knopen.", "choice1": "Hij weigerde het shirt aan te trekken.", "choice2": "Hij vroeg zijn moeder om hulp.", "label": 1}
+{"id": 288, "question": "cause", "premise": "Ik spuugde mijn kauwgom uit.", "choice1": "Ik blies een bel met de kauwgom.", "choice2": "De kauwgom verloor zijn smaak.", "label": 1}
+{"id": 289, "question": "effect", "premise": "De jongen schilderde een schilderij voor zijn moeder.", "choice1": "Zijn moeder hing het schilderij aan de muur.", "choice2": "Zijn moeder verkocht het schilderij aan een galerie.", "label": 0}
+{"id": 290, "question": "effect", "premise": "De competitie eindigde.", "choice1": "De teams werden fanatiek.", "choice2": "De teams schudden elkaar de hand.", "label": 1}
+{"id": 291, "question": "cause", "premise": "Het meisje weigerde beleefd de hamburger.", "choice1": "Ze was vegetari\u00ebr.", "choice2": "Ze hield van fastfood.", "label": 0}
+{"id": 292, "question": "effect", "premise": "Ik schrobde de vlek op de vloer.", "choice1": "Ik heb de vlek verwijderd.", "choice2": "Ik maakte de vloer vies.", "label": 0}
+{"id": 293, "question": "effect", "premise": "De documenten bevatten belangrijke informatie.", "choice1": "Ik heb ze samen geknipt.", "choice2": "Ik bewaarde ze op een veilige plek.", "label": 1}
+{"id": 294, "question": "cause", "premise": "Het ei spatte uiteen.", "choice1": "Ik liet het vallen.", "choice2": "Ik heb het gekookt.", "label": 0}
+{"id": 295, "question": "effect", "premise": "Het meisje duwde haar vriend.", "choice1": "Haar vriend verslikte zich.", "choice2": "Haar vriend viel om.", "label": 1}
+{"id": 296, "question": "effect", "premise": "Een groep tieners kwam onuitgenodigd op het feestje.", "choice1": "De gastheer van het feest schopte ze eruit.", "choice2": "De gastheer van het feest nodigde hen uit om binnen te komen.", "label": 0}
+{"id": 297, "question": "cause", "premise": "De man nam een douche.", "choice1": "Hij was bezweet van het sporten.", "choice2": "Hij opende een nieuw stuk zeep.", "label": 0}
+{"id": 298, "question": "cause", "premise": "Het scherm van de laptop werd zwart.", "choice1": "De garantie van de laptop is verlopen.", "choice2": "De batterij van de laptop is leeg.", "label": 1}
+{"id": 299, "question": "effect", "premise": "Het boek werd een enorme bestseller.", "choice1": "Het werd verfilmd.", "choice2": "De auteur verdween in de vergetelheid.", "label": 0}
+{"id": 300, "question": "cause", "premise": "De man was dankbaar dat hij nog leefde.", "choice1": "Hij was genezen van kanker.", "choice2": "Bij zijn vrouw werd kanker vastgesteld.", "label": 0}
+{"id": 301, "question": "cause", "premise": "De vrouw schreef een cheque uit aan het gasbedrijf.", "choice1": "Ze betaalde liever contant.", "choice2": "Ze ontving haar maandelijkse factuur.", "label": 1}
+{"id": 302, "question": "cause", "premise": "De vrouw aarzelde om van loopbaan te veranderen.", "choice1": "Ze verdiende veel geld in haar huidige beroep.", "choice2": "Ze heeft veel stress doorstaan in haar huidige beroep.", "label": 0}
+{"id": 303, "question": "cause", "premise": "De vrouw diende een straatverbod in tegen de man.", "choice1": "De man riep haar.", "choice2": "De man stalkte haar.", "label": 1}
+{"id": 304, "question": "effect", "premise": "Het tij van de oceaan was gevaarlijk.", "choice1": "De zwemmers smeren zich meer in met zonnebrandcr\u00e8me.", "choice2": "De zwemmers keerden terug naar de kust.", "label": 1}
+{"id": 305, "question": "cause", "premise": "De vrouw weigerde een tweede biertje.", "choice1": "Zij was de Bob die nacht.", "choice2": "Ze kende de barman.", "label": 0}
+{"id": 306, "question": "cause", "premise": "Ik raakte buiten adem.", "choice1": "Ik klom meerdere trappen op.", "choice2": "Ik heb meerdere hoofdstukken van het boek gelezen.", "label": 0}
+{"id": 307, "question": "effect", "premise": "De vrouw werd als geestesziek beschouwd.", "choice1": "Ze werd naar een psychiatrische inrichting gestuurd.", "choice2": "Ze zocht een carri\u00e8re als psychiater.", "label": 0}
+{"id": 308, "question": "effect", "premise": "De zon kwam achter de wolken tevoorschijn.", "choice1": "De vrouw keek op haar horloge.", "choice2": "De vrouw trok haar trui uit.", "label": 1}
+{"id": 309, "question": "cause", "premise": "De voetbalcoach verloor zijn stem na de wedstrijd.", "choice1": "Hij schreeuwde telkens wanneer een speler de bal kwijtraakte.", "choice2": "Hij floot telkens wanneer een speler een touchdown scoorde.", "label": 0}
+{"id": 310, "question": "effect", "premise": "De vrouw complimenteerde de man.", "choice1": "Hij niesde.", "choice2": "Hij bloosde.", "label": 1}
+{"id": 311, "question": "effect", "premise": "Ik oefende druk uit op de snee in mijn arm.", "choice1": "Het genas.", "choice2": "Het stopte met bloeden.", "label": 1}
+{"id": 312, "question": "effect", "premise": "De vrouw had een infectie.", "choice1": "Ze nam antibiotica.", "choice2": "Ze waste haar handen.", "label": 0}
+{"id": 313, "question": "effect", "premise": "De vrouw werd opgeroepen voor jurydienst.", "choice1": "Ze nam contact op met haar advocaat.", "choice2": "Ze heeft haar afspraken afgezegd.", "label": 1}
+{"id": 314, "question": "cause", "premise": "De vrouw wuifde zich koelte toe met haar hand.", "choice1": "Ze installeerde de airconditioner in de kamer.", "choice2": "De airconditioner in de kamer was kapot.", "label": 1}
+{"id": 315, "question": "cause", "premise": "De doktoren amputeerden het been van de pati\u00ebnt.", "choice1": "Het was zwaar gekneusd.", "choice2": "Het was ernstig besmet.", "label": 1}
+{"id": 316, "question": "cause", "premise": "Het meisje staarde naar zichzelf in de spiegel.", "choice1": "Ze voelde zich zelfbewust.", "choice2": "De spiegel was vies.", "label": 0}
+{"id": 317, "question": "cause", "premise": "De man werd gebeten door muggen.", "choice1": "Hij ging kamperen in het bos.", "choice2": "Hij viel in slaap op zijn bank.", "label": 0}
+{"id": 318, "question": "effect", "premise": "De vrouw bood haar broer een cadeau aan.", "choice1": "Haar broer weigerde het cadeau aan te nemen.", "choice2": "Haar broer pakte het cadeau uit.", "label": 1}
+{"id": 319, "question": "effect", "premise": "De administrateur schraapte haar keel.", "choice1": "De bijeenkomst werd uitgesteld.", "choice2": "De vergadering begon.", "label": 1}
+{"id": 320, "question": "cause", "premise": "De kinderen renden onder sproeier door.", "choice1": "Ze aten ijsjes.", "choice2": "Ze hadden het warm.", "label": 1}
+{"id": 321, "question": "effect", "premise": "De man had munten nodig om de parkeermeter te vullen.", "choice1": "Hij zocht onder zijn autostoelen naar kleingeld.", "choice2": "Hij smeekte mensen op straat om kleingeld.", "label": 0}
+{"id": 322, "question": "effect", "premise": "De klant vond het souvenir te duur.", "choice1": "De verkoper heeft het aan hem verkocht.", "choice2": "Hij onderhandelde met de verkoper.", "label": 1}
+{"id": 323, "question": "cause", "premise": "De wetenschapper kreeg erkenning.", "choice1": "Ze ontdekte een nieuwe soort.", "choice2": "Ze kreeg een vaste aanstelling aan de universiteit.", "label": 0}
+{"id": 324, "question": "effect", "premise": "De auto stopte op het zebrapad.", "choice1": "De voetganger stak de weg over.", "choice2": "De voetganger wachtte op de stoep.", "label": 0}
+{"id": 325, "question": "cause", "premise": "De jongen kon niet stoppen met giechelen.", "choice1": "Zijn broer kietelde hem.", "choice2": "Zijn broer schopte hem.", "label": 0}
+{"id": 326, "question": "effect", "premise": "Mijn knie\u00ebn knikten op de trap.", "choice1": "Ik stabiliseerde mezelf op de reling.", "choice2": "De reling kwam los van de muur.", "label": 0}
+{"id": 327, "question": "cause", "premise": "Ik ging naar bed.", "choice1": "Het was een heldere nacht.", "choice2": "Het was laat.", "label": 1}
+{"id": 328, "question": "effect", "premise": "Mijn vriend was herstellende van een operatie.", "choice1": "Ik heb haar afgezet bij het ziekenhuis.", "choice2": "Ik bracht haar een kaart en bloemen.", "label": 1}
+{"id": 329, "question": "effect", "premise": "De DJ zette de muziek aan.", "choice1": "Mensen verlieten het feest.", "choice2": "Mensen begonnen te dansen.", "label": 1}
+{"id": 330, "question": "cause", "premise": "De bewaker speelde de bewakingsbeelden opnieuw af.", "choice1": "De bewakingscamera was onscherp.", "choice2": "Hij merkte verdachte activiteiten op.", "label": 1}
+{"id": 331, "question": "cause", "premise": "Ik bleef in bed liggen toen ik wakker werd.", "choice1": "Ik had honger.", "choice2": "Het was zaterdag.", "label": 1}
+{"id": 332, "question": "effect", "premise": "De man tilde de zware doos op.", "choice1": "Hij boog zijn rug.", "choice2": "Hij krabde op zijn rug.", "label": 0}
+{"id": 333, "question": "cause", "premise": "De portemonnee van de vrouw was verdwenen.", "choice1": "Er zat veel troep in.", "choice2": "Ze liet het onbeheerd achter.", "label": 1}
+{"id": 334, "question": "cause", "premise": "De vrouw leed aan geheugenverlies.", "choice1": "Ze had een allergische reactie.", "choice2": "Ze kreeg een auto-ongeluk.", "label": 1}
+{"id": 335, "question": "effect", "premise": "Ik had contant geld nodig.", "choice1": "Ik ging naar de bank.", "choice2": "Ik heb een portemonnee gekocht.", "label": 0}
+{"id": 336, "question": "cause", "premise": "De berijder viel op de grond.", "choice1": "De stier stootte de berijder af.", "choice2": "De stier achtervolgde de berijder.", "label": 0}
+{"id": 337, "question": "effect", "premise": "De jongen wilde gespierd zijn.", "choice1": "Hij ging gewichtheffen.", "choice2": "Hij speelde computerspelletjes.", "label": 0}
+{"id": 338, "question": "effect", "premise": "De wetenschapper voerde een experiment uit.", "choice1": "Ze bevestigde haar theorie.", "choice2": "Ze heeft haar gegevens vervalst.", "label": 0}
+{"id": 339, "question": "cause", "premise": "De melk bleef koud.", "choice1": "Het was gepasteuriseerd.", "choice2": "Ik bewaarde het in de koelkast.", "label": 1}
+{"id": 340, "question": "cause", "premise": "De onrustige baby kalmeerde.", "choice1": "De ouders schudden een rammelaar voor de baby.", "choice2": "De ouders kozen een naam voor de baby.", "label": 0}
+{"id": 341, "question": "effect", "premise": "Ik deed ijsblokjes in de hete soep.", "choice1": "De soep koelde af.", "choice2": "De soep werd dik.", "label": 0}
+{"id": 342, "question": "cause", "premise": "Het meisje deelde haar lunch met haar vriend.", "choice1": "Haar vriend vergat zijn lunch mee te nemen.", "choice2": "Haar vriend zat naast haar tijdens de lunch.", "label": 0}
+{"id": 343, "question": "cause", "premise": "De politie heeft het onderzoek afgesloten.", "choice1": "Zij hielden de verdachte aan.", "choice2": "Het slachtoffer herstelde.", "label": 0}
+{"id": 344, "question": "effect", "premise": "De regen nam af.", "choice1": "Ik ging wandelen.", "choice2": "Ik surfte op internet.", "label": 0}
+{"id": 345, "question": "effect", "premise": "Het kopje thee was gloeiend heet.", "choice1": "Ik blies erop.", "choice2": "Ik heb het uitgegoten.", "label": 0}
+{"id": 346, "question": "cause", "premise": "De foto vervaagde.", "choice1": "Het was nep.", "choice2": "Het was oud.", "label": 1}
+{"id": 347, "question": "cause", "premise": "De jongen kreeg een blauw oog.", "choice1": "De pestkop bespotte de jongen.", "choice2": "De pestkop sloeg de jongen.", "label": 1}
+{"id": 348, "question": "effect", "premise": "Ik ben mijn portemonnee kwijtgeraakt.", "choice1": "Ik pakte mijn telefoon.", "choice2": "Ik ging mijn stappen na.", "label": 1}
+{"id": 349, "question": "effect", "premise": "De jager had geen munitie meer.", "choice1": "Hij herlaadde het geweer.", "choice2": "Hij richtte op het hert.", "label": 0}
+{"id": 350, "question": "cause", "premise": "Het zeeleven nam af.", "choice1": "Boten voeren door de oceaan.", "choice2": "Er is olie in de oceaan gemorst.", "label": 1}
+{"id": 351, "question": "effect", "premise": "Ik liet het ijsblokje onder warm water lopen.", "choice1": "Het ijsblokje plakte aan mijn vingers.", "choice2": "Het ijsblokje verdween.", "label": 1}
+{"id": 352, "question": "cause", "premise": "De klant kwam de boetiek binnen.", "choice1": "Ze heeft haar portemonnee thuis gelaten.", "choice2": "De etalage trok haar aandacht.", "label": 1}
+{"id": 353, "question": "cause", "premise": "De man dronk water bij zijn maaltijd.", "choice1": "Zijn maaltijd was koud.", "choice2": "Zijn maaltijd was pittig.", "label": 1}
+{"id": 354, "question": "cause", "premise": "De vrouw bleef weg van openbare ruimtes.", "choice1": "Ze was besmettelijk.", "choice2": "Ze was dronken.", "label": 0}
+{"id": 355, "question": "effect", "premise": "De vieze geur vulde de kamer.", "choice1": "Ik kneep mijn neus dicht.", "choice2": "Ik trok de rubberen handschoenen aan.", "label": 0}
+{"id": 356, "question": "cause", "premise": "De werknemer mistte werk.", "choice1": "Haar familie nam contact met haar op.", "choice2": "Er was een sterfgeval in haar familie.", "label": 1}
+{"id": 357, "question": "effect", "premise": "De magneet trok de paperclip aan.", "choice1": "De paperclip viel van de magneet.", "choice2": "De paperclip plakte aan de magneet.", "label": 1}
+{"id": 358, "question": "effect", "premise": "De tuinman wiedde het onkruid.", "choice1": "Het onkruid kwam uit de grond.", "choice2": "Het onkruid bracht zaden voort.", "label": 0}
+{"id": 359, "question": "effect", "premise": "We bestelden een pizza.", "choice1": "De pizza werd bezorgd.", "choice2": "De pizza werd koud.", "label": 0}
+{"id": 360, "question": "cause", "premise": "De tiener werd groter dan zijn vader.", "choice1": "Hij maakte een groeispurt door.", "choice2": "Hij sloot zich aan bij het basketbalteam.", "label": 0}
+{"id": 361, "question": "cause", "premise": "De pati\u00ebnt onderging de riskante medische procedure.", "choice1": "De procedure was duur.", "choice2": "Specialisten hebben de procedure aanbevolen.", "label": 1}
+{"id": 362, "question": "effect", "premise": "De man bleef met zijn hemdsmouw haken aan de randen van het hek.", "choice1": "Hij sprong over het hek.", "choice2": "De mouw scheurde.", "label": 1}
+{"id": 363, "question": "cause", "premise": "De onderzoekers beschouwden de dood van de man als zelfmoord.", "choice1": "Hij liet een briefje achter.", "choice2": "Hij had kinderen.", "label": 0}
+{"id": 364, "question": "cause", "premise": "De computer crashte.", "choice1": "Ik heb een back-up van mijn bestanden gemaakt.", "choice2": "Ik heb een virus gedownload.", "label": 1}
+{"id": 365, "question": "cause", "premise": "De mond van het meisje deed pijn.", "choice1": "Ze verloor een tand.", "choice2": "Ze slikte haar kauwgom door.", "label": 0}
+{"id": 366, "question": "effect", "premise": "De kamer was duister.", "choice1": "Ik deed de gordijnen open.", "choice2": "Ik heb de ramen gewassen.", "label": 0}
+{"id": 367, "question": "cause", "premise": "De vader zette zijn dochter in haar kinderwagen.", "choice1": "Ze leerde lopen.", "choice2": "Hij was het beu haar te dragen.", "label": 1}
+{"id": 368, "question": "cause", "premise": "De spion ontdekte de locatie van de vijand.", "choice1": "De spion luisterde de telefoon van de vijand af.", "choice2": "De spion was ingehuurd door de overheid.", "label": 0}
+{"id": 369, "question": "cause", "premise": "De glazen op tafel vielen om.", "choice1": "Het kind tekende op tafel.", "choice2": "Het kind rukte aan het tafelkleed.", "label": 1}
+{"id": 370, "question": "effect", "premise": "Het water in de theepot begon te koken.", "choice1": "De theepot is afgekoeld.", "choice2": "De theepot floot.", "label": 1}
+{"id": 371, "question": "cause", "premise": "De stad heeft de burgemeester herkozen.", "choice1": "De stad voerde bezuiningingen door.", "choice2": "De burgemeester kwam zijn beloften na.", "label": 1}
+{"id": 372, "question": "cause", "premise": "De vrouw overdreef de details van het verhaal.", "choice1": "Ze wilde aandacht.", "choice2": "Ze was verlegen.", "label": 0}
+{"id": 373, "question": "effect", "premise": "De vrouw raakte in een midlifecrisis.", "choice1": "Ze ging met pensioen.", "choice2": "Ze ging skydiven.", "label": 1}
+{"id": 374, "question": "effect", "premise": "De man ging in ontkenning over de tragedie.", "choice1": "Hij kwam er gemakkelijk overheen.", "choice2": "Hij weigerde erover te praten.", "label": 1}
+{"id": 375, "question": "cause", "premise": "De man was in rouw.", "choice1": "Zijn vrouw bekritiseerde hem.", "choice2": "Zijn moeder is overleden.", "label": 1}
+{"id": 376, "question": "cause", "premise": "Het meisje had een fobie voor honden.", "choice1": "Ze redde een verlaten hond.", "choice2": "Ze is gebeten door een hond.", "label": 1}
+{"id": 377, "question": "effect", "premise": "Ik heb me voorgenomen om gezond te eten.", "choice1": "Ik heb een yogales bijgewoond.", "choice2": "Ik kocht groenten en fruit.", "label": 1}
+{"id": 378, "question": "cause", "premise": "De pati\u00ebnt raakte in coma.", "choice1": "Hij liep een emotioneel trauma op.", "choice2": "Hij liep hersenbeschadiging op.", "label": 1}
+{"id": 379, "question": "effect", "premise": "Het gesprek van de vrienden tijdens het avondeten veranderde naar politiek.", "choice1": "Het gesprek viel stil.", "choice2": "Er barstte een debat los.", "label": 1}
+{"id": 380, "question": "cause", "premise": "De vrouw zag haar vriend aan de andere kant van de kamer.", "choice1": "De vrouw zwaaide.", "choice2": "De vrouw ontsnapte.", "label": 0}
+{"id": 381, "question": "effect", "premise": "De moeder had hulp nodig om voor haar kinderen te zorgen.", "choice1": "Ze stuurde de kinderen naar de cr\u00e8che.", "choice2": "Ze gaf de voogdij over de kinderen op.", "label": 0}
+{"id": 382, "question": "cause", "premise": "De chauffeur toeterde.", "choice1": "Een andere auto zwenkte haar baan op.", "choice2": "Bij het stoplicht sloeg ze rechtsaf.", "label": 0}
+{"id": 383, "question": "effect", "premise": "De man wilde geld besparen.", "choice1": "Hij haalde geld van zijn spaarrekening.", "choice2": "Hij bezuinigde op het doen van onnodige aankopen.", "label": 1}
+{"id": 384, "question": "cause", "premise": "Ik trok schoenen aan.", "choice1": "Er lagen glasscherven op de vloer.", "choice2": "De verf op de muren was nat.", "label": 0}
+{"id": 385, "question": "cause", "premise": "De bibliothecaris vond het boek in de stapels.", "choice1": "Ik heb de hulp van de bibliothecaris ingeroepen.", "choice2": "Het boek is uitgeleend.", "label": 0}
+{"id": 386, "question": "cause", "premise": "De moeder kwam op ooghoogte met haar zoon.", "choice1": "Ze hurkte neer.", "choice2": "Ze hield zijn hand vast.", "label": 0}
+{"id": 387, "question": "cause", "premise": "Ik heb mijn spullen ingepakt.", "choice1": "Ik was op jacht naar een nieuw appartement.", "choice2": "Ik ging uit mijn appartement verhuizen.", "label": 1}
+{"id": 388, "question": "cause", "premise": "De jongen deed zijn oudere broer na.", "choice1": "De jongen keek tegen zijn oudere broer op.", "choice2": "De jongen worstelde met zijn oudere broer.", "label": 0}
+{"id": 389, "question": "effect", "premise": "Het meisje wilde de goedkeuring van haar ouders.", "choice1": "Ze is van huis weggelopen.", "choice2": "Ze gehoorzaamde de regels van haar ouders.", "label": 1}
+{"id": 390, "question": "effect", "premise": "De vrachtwagen botste op de brug tegen de motorfiets.", "choice1": "De motorrijder is overleden.", "choice2": "De brug stortte in.", "label": 0}
+{"id": 391, "question": "cause", "premise": "De winkel ging dicht.", "choice1": "De verkoopcijfers werden niet beter.", "choice2": "Het huurcontract werd verlengd.", "label": 0}
+{"id": 392, "question": "effect", "premise": "De zwemmer won de wedstrijd.", "choice1": "Ze kreeg een gouden medaille.", "choice2": "Haar team verloor de wedstrijd.", "label": 0}
+{"id": 393, "question": "cause", "premise": "De luchtvervuiling in de stad nam toe.", "choice1": "Fabrieken verhoogden hun productie.", "choice2": "Fabrieken werden gesloten.", "label": 0}
+{"id": 394, "question": "cause", "premise": "De moeder berispte haar dochter.", "choice1": "Haar dochter boerde aan de keukentafel.", "choice2": "Haar dochter dekte de keukentafel.", "label": 0}
+{"id": 395, "question": "cause", "premise": "Ik bood mijn excuses aan bij de groep.", "choice1": "Ik heb mijn telefoon uitgezet.", "choice2": "Mijn telefoon ging.", "label": 1}
+{"id": 396, "question": "cause", "premise": "De ski\u00ebr gleed uit op de helling.", "choice1": "Ze liet haar skistokken vallen.", "choice2": "Ze raakte een stuk ijs.", "label": 1}
+{"id": 397, "question": "effect", "premise": "De tekstgrootte op de brochure was klein.", "choice1": "De man zette zijn bril op.", "choice2": "De man haalde een pen uit zijn zak.", "label": 0}
+{"id": 398, "question": "effect", "premise": "Ik schakelde de lichtschakelaar op en neer.", "choice1": "Het licht werd duisterder.", "choice2": "Het licht flikkerde.", "label": 1}
+{"id": 399, "question": "effect", "premise": "Het horloge van de man was kapot.", "choice1": "Hij wachtte bij de bushalte.", "choice2": "Hij vroeg een onbekende hoe laat het was.", "label": 1}
+{"id": 400, "question": "cause", "premise": "De soldaten zaten verborgen in het struikgewas.", "choice1": "Ze waren gewapend met geweren.", "choice2": "Ze droegen camouflage-uniformen.", "label": 1}
