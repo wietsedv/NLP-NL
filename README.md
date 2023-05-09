@@ -30,25 +30,24 @@ Translation of [Choice of Plausible Alternatives (COPA)](https://people.ict.usc.
 
 ¹ These splits are the same as in [SuperGLUE](https://super.gluebenchmark.com/).
 
-### 📁 [QuAD-NL](QuAD-NL) [translated [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) / [XQuAD](https://github.com/deepmind/xquad)] <small>(Question Answering)</small>
+### 📁 [SQuAD-NL](QuAD-NL) [translated [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) / [XQuAD](https://github.com/deepmind/xquad)] <small>(Question Answering)</small>
 
-Translation of [The Stanford Question Answering Dataset (SQuAD) v1.1](https://rajpurkar.github.io/SQuAD-explorer/).
+Translation of [The Stanford Question Answering Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/).
 
-| Split | Source                 | Procedure                | English | Dutch |
-| ----- | ---------------------- | ------------------------ | ------: | ----: |
-| train | SQuAD-train-v1.1       | Google Translate         |  87,599 |   WIP |
-| dev   | SQuAD-dev-v1.1 ∉ XQuAD | Google Translate         |   9,380 |   WIP |
-| test  | XQuAD                  | Google Translate + Human |   1,190 |   WIP |
+#### v1.1
 
-<!-- ### 📁 [NLI-NL](NLI-NL) [translated [MultiNLI](https://cims.nyu.edu/~sbowman/multinli/) / [XNLI](https://cims.nyu.edu/~sbowman/xnli/)] <small>(Natural Language Inference)</small>
+| Split | Source                 | Procedure                | English | Dutch  |
+| ----- | ---------------------- | ------------------------ | ------: | -----: |
+| train | SQuAD-train-v1.1       | Google Translate         |  87,599 | 87,599 |
+| dev   | SQuAD-dev-v1.1 \ XQuAD | Google Translate         |   9,380 |  9,380 |
+| test  | SQuAD-dev-v1.1 ∩ XQuAD | Google Translate + Human |   1,190 |  1,190 |
 
-Translation of [The Multi-Genre Natural Language Inference (MultiNLI)](https://cims.nyu.edu/~sbowman/multinli/) and [The Cross-Lingual NLI Corpus (XNLI)](https://github.com/facebookresearch/XNLI).
-
-| Split | Source         | Procedure                | English | Dutch |
-| ----- | -------------- | ------------------------ | ------: | ----: |
-| train | MultiNLI-train | Google Translate         | 392,702 |   WIP |
-| dev   | XNLI-dev       | Google Translate         |   2,490 |   WIP |
-| test  | XNLI-test      | Google Translate + Human |   5,010 |   WIP | -->
+#### v2.0
+| Split | Source                 | Procedure                | English | Dutch   |
+| ----- | ---------------------- | ------------------------ | ------: | ------: |
+| train | SQuAD-train-v2.0       | Google Translate         | 130,319 | 130,319 |
+| dev   | SQuAD-dev-v2.0 \ XQuAD | Google Translate         |  10,174 |  10,174 |
+| test  | SQuAD-dev-v2.0 ∩ XQuAD | Google Translate + Human |   1,699 |   1,699 |
 
 ## Other Similar Datasets (External)
 
