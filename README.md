@@ -30,7 +30,7 @@ Translation of [Choice of Plausible Alternatives (COPA)](https://people.ict.usc.
 
 ¹ These splits are the same as in [SuperGLUE](https://super.gluebenchmark.com/).
 
-### 📁 [SQuAD-NL](SQuAD-NL) [translated [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) / [XQuAD](https://github.com/deepmind/xquad)] <small>(Question Answering)</small>
+### 📁 [SQuAD-NL](QuAD-NL) [translated [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) / [XQuAD](https://github.com/deepmind/xquad)] <small>(Question Answering)</small>
 
 Translation of [The Stanford Question Answering Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/).
 
@@ -40,16 +40,14 @@ Translation of [The Stanford Question Answering Dataset (SQuAD)](https://rajpurk
 | ----- | ---------------------- | ------------------------ | ------: | -----: |
 | train | SQuAD-train-v1.1       | Google Translate         |  87,599 | 87,599 |
 | dev   | SQuAD-dev-v1.1 \ XQuAD | Google Translate         |   9,380 |  9,380 |
-| test  | XQuAD                  | Google Translate + Human |   1,190 |  1,190 |
+| test  | SQuAD-dev-v1.1 & XQuAD | Google Translate + Human |   1,190 |  1,183 |
 
 #### v2.0
-| Split | Source                  | Procedure                | English | Dutch   |
-| ----- | ----------------------- | ------------------------ | ------: | ------: |
-| train | SQuAD-train-v2.0        | Google Translate         | 130,319 | 130,319 |
-| dev   | SQuAD-dev-v2.0 \² XQuAD | Google Translate         |  10,174 |  10,174 |
-| test  | SQuAD-dev-v2.0 ∩² XQuAD | Google Translate + Human |   1,699 |   1,699 |
-
-² SQuAD-v2.0 and XQuAD set differences and intersections are made on context level. SQuAD-NL-v2.0 test data contains unanswerable questions from SQuAD-dev-v2.0 that are not in XQuAD for contexts that are in XQuAD.
+| Split | Source                 | Procedure                | English | Dutch   |
+| ----- | ---------------------- | ------------------------ | ------: | ------: |
+| train | SQuAD-train-v2.0       | Google Translate         | 130,319 | 130,319 |
+| dev   | SQuAD-dev-v2.0 \ XQuAD | Google Translate         |  10,174 |  10,174 |
+| test  | SQuAD-dev-v2.0 & XQuAD | Google Translate + Human |   1,699 |   1,699 |
 
 ## Other Similar Datasets (External)
 
